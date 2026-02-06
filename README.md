@@ -74,7 +74,7 @@ Sharing my design and development journey, experiments, and growth on
 
 ---
 
-###🧰 Tools & Software
+### 🧰 Tools & Software
 ![Figma](https://img.shields.io/badge/Figma-Design-black)
 ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-blue)
 ![Illustrator](https://img.shields.io/badge/Adobe-Illustrator-orange)
