@@ -35,4 +35,4 @@ Sharing my design journey, experiments, and growth.
 ---
 
 ### 📊 GitHub Stats
-![Wessal’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_REAL_USERNAME&show_icons=true)
+![Wessal’s GitHub stats](https://github-readme-stats.vercel.app/api?username=WessalAlHajAli&show_icons=true)
