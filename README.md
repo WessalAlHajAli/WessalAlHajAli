@@ -1,8 +1,10 @@
 ![Banner]([link-to-your-image](https://www.canva.com/design/DAHAhFvEWjk/h_NipaFTtYIDVUxmgo4Msg/view?utm_content=DAHAhFvEWjk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcb6032ce54))]
 # 👩🏼‍💻Hi , I’m Wessal 👋
 
-UI/UX Developer and Graphic Designer  
+Passionate [UI/UX Developer and Graphic Designer](https://resumx.framer.website)  
 Creating meaningful, user-centered digital experiences.
+Interested in collaborative, growth-oriented environments and meaningful digital experiences.
+
 
 ---
 
