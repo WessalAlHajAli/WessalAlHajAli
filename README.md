@@ -48,15 +48,15 @@ Sharing my design and development journey, experiments, and growth on
 
 ---
 ### 🎨 Graphic & Visual Design
-![Branding](https://img.shields.io/badge/Branding-Visual%20Identity-FFB6C1?style=for-the-badge)
-![Logo Design](https://img.shields.io/badge/Logo%20Design-FFB6C1?style=for-the-badge)
-![Typography](https://img.shields.io/badge/Typography-Design-E6E6FA?style=for-the-badge)
-![Color Theory](https://img.shields.io/badge/Color%20Theory-FFDAB9?style=for-the-badge)
-![Social Media Design](https://img.shields.io/badge/Social%20Media%20Design-A0E7FF?style=for-the-badge)
-![Marketing Materials](https://img.shields.io/badge/Marketing%20Materials-A0E7FF?style=for-the-badge)
-![Presentation Design](https://img.shields.io/badge/Presentation%20Design-FFFACD?style=for-the-badge)
-![Company Profiles](https://img.shields.io/badge/Company%20Profiles-E6E6FA?style=for-the-badge)
-![CV Design](https://img.shields.io/badge/CV%20Design-E6E6FA?style=for-the-badge)
+![Branding](https://img.shields.io/badge/Branding-Visual%20Identity-F5E6D0?style=for-the-badge)
+![Logo Design](https://img.shields.io/badge/Logo%20Design-F5E6D0?style=for-the-badge)
+![Typography](https://img.shields.io/badge/Typography-Design-FDEBD0?style=for-the-badge)
+![Color Theory](https://img.shields.io/badge/Color%20Theory-FDE6C0?style=for-the-badge)
+![Social Media Design](https://img.shields.io/badge/Social%20Media%20Design-FBE8D3?style=for-the-badge)
+![Marketing Materials](https://img.shields.io/badge/Marketing%20Materials-FBE8D3?style=for-the-badge)
+![Presentation Design](https://img.shields.io/badge/Presentation%20Design-FCF0DB?style=for-the-badge)
+![Company Profiles](https://img.shields.io/badge/Company%20Profiles-FDEBD0?style=for-the-badge)
+![CV Design](https://img.shields.io/badge/CV%20Design-FDEBD0?style=for-the-badge)
 
 ---
 ### 💻 Development & Programming
@@ -67,47 +67,42 @@ Sharing my design and development journey, experiments, and growth on
 ![Laravel](https://img.shields.io/badge/Laravel-FF6F61?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
-### 📚 Frameworks (Currently Learning)
-![Vue.js](https://img.shields.io/badge/Vue.js-7FFFD4?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
----
 ### 🧰 Tools & Software
-![Figma](https://img.shields.io/badge/Figma-7F7FFF?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-9BF6FF?style=for-the-badge&logo=adobe&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FFD6A5?style=for-the-badge&logo=adobe&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-CBA0FF?style=for-the-badge&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-FFB3FF?style=for-the-badge&logo=canva&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-7F7FFF?style=for-the-badge)
-![Webflow](https://img.shields.io/badge/Webflow-AE9FFF?style=for-the-badge)
-![Rive](https://img.shields.io/badge/Rive-ADD8E6?style=for-the-badge)
-![After Effects](https://img.shields.io/badge/After%20Effects-D8BFD8?style=for-the-badge)
-![Spline](https://img.shields.io/badge/Spline-E6E6FA?style=for-the-badge)
-![CapCut](https://img.shields.io/badge/CapCut-FFD6A5?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-9BF6FF?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/PhpStorm-CBA0FF?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FFB3FF?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-7F7FFF?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-9BF6FF?style=for-the-badge&logo=notion&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-A0E7FF?style=for-the-badge)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-FFB6C1?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F5E6D0?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-FDEBD0?style=for-the-badge&logo=adobe&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FDE6C0?style=for-the-badge&logo=adobe&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FBE8D3?style=for-the-badge&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-FCF0DB?style=for-the-badge&logo=canva&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-F5E6D0?style=for-the-badge)
+![Webflow](https://img.shields.io/badge/Webflow-FDEBD0?style=for-the-badge)
+![Rive](https://img.shields.io/badge/Rive-FDE6C0?style=for-the-badge)
+![After Effects](https://img.shields.io/badge/After%20Effects-FBE8D3?style=for-the-badge)
+![Spline](https://img.shields.io/badge/Spline-FCF0DB?style=for-the-badge)
+![CapCut](https://img.shields.io/badge/CapCut-FDEBD0?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-FDE6C0?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-FBE8D3?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FCF0DB?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-F5E6D0?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-FDEBD0?style=for-the-badge&logo=notion&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-FBE8D3?style=for-the-badge)
+![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-FCF0DB?style=for-the-badge)
 
 ---
 ### 🤝 Workflow & Collaboration
-![Agile](https://img.shields.io/badge/Agile-7FFFD4?style=for-the-badge)
-![Cross Functional](https://img.shields.io/badge/Cross--Functional-7FFFD4?style=for-the-badge)
-![Design Documentation](https://img.shields.io/badge/Design%20Documentation-E6E6FA?style=for-the-badge)
-![Client Communication](https://img.shields.io/badge/Client%20Communication-A0E7FF?style=for-the-badge)
-![Remote Work](https://img.shields.io/badge/Remote%20Work-ADD8E6?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-F5E6D0?style=for-the-badge)
+![Cross Functional](https://img.shields.io/badge/Cross--Functional-FDEBD0?style=for-the-badge)
+![Design Documentation](https://img.shields.io/badge/Design%20Documentation-FDE6C0?style=for-the-badge)
+![Client Communication](https://img.shields.io/badge/Client%20Communication-FBE8D3?style=for-the-badge)
+![Remote Work](https://img.shields.io/badge/Remote%20Work-FCF0DB?style=for-the-badge)
 
 ---
 ### 🧠 Problem Solving & Creativity
-![Design Thinking](https://img.shields.io/badge/Design%20Thinking-CBA0FF?style=for-the-badge)
-![Creative Problem Solving](https://img.shields.io/badge/Creative%20Problem%20Solving-D8BFD8?style=for-the-badge)
-![Concept Development](https://img.shields.io/badge/Concept%20Development-E6E6FA?style=for-the-badge)
-![Attention to Detail](https://img.shields.io/badge/Attention-to%20Detail-7FFFD4?style=for-the-badge)
-![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-A0E7FF?style=for-the-badge)
-![Time Management](https://img.shields.io/badge/Time%20Management-FFD6A5?style=for-the-badge)
+![Design Thinking](https://img.shields.io/badge/Design%20Thinking-FDEBD0?style=for-the-badge)
+![Creative Problem Solving](https://img.shields.io/badge/Creative%20Problem%20Solving-FDE6C0?style=for-the-badge)
+![Concept Development](https://img.shields.io/badge/Concept%20Development-FBE8D3?style=for-the-badge)
+![Attention to Detail](https://img.shields.io/badge/Attention-to%20Detail-FCF0DB?style=for-the-badge)
+![Continuous Learning](https://img.shields.io/badge/Continuous%20Learning-F5E6D0?style=for-the-badge)
+![Time Management](https://img.shields.io/badge/Time%20Management-FDEBD0?style=for-the-badge)
 
 
 ---
