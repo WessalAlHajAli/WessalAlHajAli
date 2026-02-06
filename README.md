@@ -1,4 +1,4 @@
-![Banner]([link-to-your-image](https://www.canva.com/design/DAHAhFvEWjk/h_NipaFTtYIDVUxmgo4Msg/view?utm_content=DAHAhFvEWjk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcb6032ce54)
+![Banner]([link-to-your-image](https://www.canva.com/design/DAHAhFvEWjk/h_NipaFTtYIDVUxmgo4Msg/view?utm_content=DAHAhFvEWjk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hcb6032ce54))]
 # 👩🏼‍💻Hi , I’m Wessal 👋
 
 UI/UX Developer and Graphic Designer  
