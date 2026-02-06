@@ -2,9 +2,11 @@
 
 ### 👩🏼‍💻 Hi, I’m Wessal 👋
 
-Passionate [UI/UX Developer and Graphic Designer]([(https://wessalalhajaliporfolio.framer.website)])  
+Passionate [UI/UX Developer and Graphic Designer](https://wessalalhajaliporfolio.framer.website)  
 Creating meaningful, user-centered digital experiences.  
 Interested in collaborative, growth-oriented environments.
+
+---
 
 ### 🎓 Background
 Studied Information Engineering at Aleppo University.  
@@ -14,7 +16,7 @@ Currently exploring design-driven problem solving.
 
 ### 🧠 Learning in Public
 Sharing my design and development journey, experiments, and growth on  
-[Portfolio](https://wessalalhajaliporfolio.framer.website) · [Behance](...) · [Dribbble](...) · [Twitter](...) · [GitHub](...)
+[Portfolio](https://wessalalhajaliporfolio.framer.website) · [Behance](https://www.behance.net/wessalalhajali) · [Dribbble](https://dribbble.com/Wessal_2001) · [Twitter](https://x.com/engWessal2001) · [GitHub](https://github.com/WessalAlHajAli)
 
 ---
 
