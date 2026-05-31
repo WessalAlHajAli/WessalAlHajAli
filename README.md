@@ -1,4 +1,4 @@
-<img src="Banner_bg" width="100%" />
+<img src="Banner_bg.png" width="100%" />
 
 ### 👩🏼‍💻 Hi, I’m Wessal 👋
 
